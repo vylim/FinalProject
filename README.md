@@ -1,5 +1,3 @@
-# FinalProject
-
 # Introductions
 
 In this project, we collaborated to create a table based off of families looking for new homes. The three submetrics that were looked into were, supermarkets, parks, and crime rates/safety.
