@@ -1,7 +1,9 @@
 # Introductions
 
-In this project, we collaborated to create a table based off of families looking for new homes. The three submetrics that were looked into were, supermarkets, parks, and crime rates/safety.
+In this project, we collaborated to create a table based off of families looking for new homes. The three sub-metrics that were looked into were supermarkets, parks, and crime rates/safety.
 
-For crime rates, we based the safety of neighborhoods depending on how large the crime rates were in each neighborhood. We divided safety into three submetrics that we figured were the most important 
-when living in a neighborhood. Those three submetrics were, aggravated assault, simple assault, and robberies. These are largely one of the main offenses that people who are house hunting look for. From there, 
-we came to the conclusions that neighborhoods like Mt. Oliver Boro were the safest and neighborhoods like South Side is the least safest.
+For crime rates, we based the safety of neighborhoods depending on how large the crime rates were in each neighborhood. We divided safety into three sub-metrics that we figured were the most important when living in a neighborhood. Those three submetrics were aggravated assault, simple assault, and robberies. These are largely one of the main offenses that people who are house hunting look for. 
+
+The next sub-metric we considered was activities to do in the area specifically those that were offered at local parks. We first looked into which parks had the most amount of activities and how accessible they were. We then found which neighborhood had the most amount of parks since an increase in the number of parks and activities to do would also increase the likeability of a neighborhood. 
+
+From there, we concluded that neighborhoods like Mt. Oliver Boro were the safest and neighborhoods like South Side is the least safest.
