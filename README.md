@@ -1,5 +1,9 @@
 # Introductions
 
+## Vivien Lim, Isabelle Vazapphilly, Akshitha Viswanadhula
+Team Pickles
+Group 9
+
 In this project, we collaborated to create a table based off of families looking for new homes. The three sub-metrics that were looked into were supermarkets, parks, and crime rates/safety.
 
 For crime rates, we based the safety of neighborhoods depending on how large the crime rates were in each neighborhood. We divided safety into three sub-metrics that we figured were the most important when living in a neighborhood. Those three submetrics were aggravated assault, simple assault, and robberies. These are largely one of the main offenses that people who are house hunting look for. 
