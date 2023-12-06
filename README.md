@@ -2,6 +2,7 @@
 
 ## Vivien Lim, Isabelle Vazapphilly, Akshitha Viswanadhula
 Team Pickles
+
 Group 9
 
 In this project, we collaborated to create a table based off of families looking for new homes. The three sub-metrics that were looked into were supermarkets, parks, and crime rates/safety.
