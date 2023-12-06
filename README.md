@@ -16,3 +16,6 @@ The next sub-metric we considered was activities to do in the area specifically 
 
 The last sub-metric we factored into our result was supermarkets. The best neighborhood had to have the most number of supermarkets. This was an important factor because with a low number of supermarkets in a neighborhood, the less variety of food a family is offered. We then from the csv totaled the amount of supermarkets in each neighborhood to see which was the best.
 
+
+Vivien's Link:
+https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
