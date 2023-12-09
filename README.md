@@ -19,6 +19,7 @@ The last sub-metric we factored into our result was supermarkets. The best neigh
 
 Vivien's Link:
 https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
+
 Isabelle's Link:
 https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a
 
