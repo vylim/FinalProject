@@ -5,7 +5,7 @@ Team Pickles
 
 Vivians email: vyl2@pitt.edu
 isabelles email: ijv4@pitt.edu
-Akshita's email: 
+Akshitha's email: akv18@pitt.edu
 Group 9
 
 In this project, we collaborated to create a table based off of families looking for new homes. The three sub-metrics that were looked into were supermarkets, parks, and crime rates/safety.
@@ -26,4 +26,7 @@ https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c4
 Isabelle's Link:
 https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a
 
-Akshita's Link: 
+Akshitha's Link: 
+https://data.wprdc.org/dataset/allegheny-county-park-features/resource/9bd66142-ffbe-4342-9ed8-d2a11dcce60f
+https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
+
