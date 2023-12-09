@@ -3,6 +3,9 @@
 ## Vivien Lim, Isabelle Vazapphilly, Akshitha Viswanadhula
 Team Pickles
 
+Vivians email: vyl2@pitt.edu
+isabelles email: ijv4@pitt.edu
+Akshita's email: 
 Group 9
 
 In this project, we collaborated to create a table based off of families looking for new homes. The three sub-metrics that were looked into were supermarkets, parks, and crime rates/safety.
@@ -23,3 +26,4 @@ https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c4
 Isabelle's Link:
 https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a
 
+Akshita's Link: 
