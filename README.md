@@ -3,8 +3,8 @@
 ## Vivien Lim, Isabelle Vazapphilly, Akshitha Viswanadhula
 Team Pickles
 
-Vivians email: vyl2@pitt.edu
-isabelles email: ijv4@pitt.edu
+Vivien's email: vyl2@pitt.edu
+Isabelle's email: ijv4@pitt.edu
 Akshitha's email: akv18@pitt.edu
 Group 9
 
